@@ -1,0 +1,478 @@
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\github\the-gioi-tho\GUI\bin\Debug\GUI.exe.config
+D:\github\the-gioi-tho\GUI\bin\Debug\GUI.exe
+D:\github\the-gioi-tho\GUI\bin\Debug\GUI.pdb
+D:\github\the-gioi-tho\GUI\bin\Debug\BLL.dll
+D:\github\the-gioi-tho\GUI\bin\Debug\DTO.dll
+D:\github\the-gioi-tho\GUI\bin\Debug\Guna.UI.dll
+D:\github\the-gioi-tho\GUI\bin\Debug\BLL.pdb
+D:\github\the-gioi-tho\GUI\bin\Debug\DTO.pdb
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.exe
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.pdb
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.Dashboard.resources
+D:\github\the-gioi-tho\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\github\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\github\the-gioi-tho\GUI\bin\Debug\Bunifu.Utils.dll
+D:\github\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\github\the-gioi-tho\GUI\bin\Debug\Guna.UI2.dll
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_Tho.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.DatLich.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.ThanhToan.resources
+D:\github\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\GUI.exe.config
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\GUI.exe
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\GUI.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\BLL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\Bunifu.Utils.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\DTO.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\Guna.UI2.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\BLL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\DTO.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_Tho.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.DatLich.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.Dashboard.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.ThanhToan.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.exe
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.FrmTHO.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\The_Gioi_Tho.mdf
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\bin\Debug\The_Gioi_Tho_log.ldf
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuTho.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuNguoiDung.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangNhap.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKy.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Login_Control.UC_QuenMK.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ChinhSuaHoSo.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Login_Control.UC_Vi.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoanNganHang.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongTinCaNhan.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DangBai.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.FrmChonLinhVuc.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongBao.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DoiMK.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XoaTK.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_NapTien.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongKe.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhGia.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemChiTietDanhGia.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.FrmXemThoChiTiet.resources
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyTho.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\The_Gioi_Tho.mdf
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\The_Gioi_Tho_log.ldf
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\GUI.exe
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\GUI.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\BLL.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\Bunifu.Utils.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\DTO.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\Guna.UI.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\BLL.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\DTO.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKy.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyTho.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_DangNhap.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_QuenMK.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_DangBai.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_DoiMK.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_NapTien.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongBao.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongKe.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_Vi.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ChinhSuaHoSo.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoan.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoanNganHang.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongTinCaNhan.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuTho.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemChiTietDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_XoaTK.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_Tho.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuNguoiDung.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.DatLich.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmChonLinhVuc.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmTHO.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmXemThoChiTiet.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.Dashboard.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.ThanhToan.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.exe
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\DAL.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\bin\Debug\DAL.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_Lich.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuUser.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKy.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyTho.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangNhap.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_QuenMK.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DangBai.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhGia.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DoiMK.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_Lich.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_LichHen.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_NapTien.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongBao.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongKe.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_Vi.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ChinhSuaHoSo.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoanNganHang.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongTinCaNhan.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuTho.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemChiTietDanhGia.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XoaTK.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_Lich.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_Tho.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuNguoiDung.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.uC_TrangChuUser.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.DatLich.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.FrmChonLinhVuc.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.FrmTHO.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.FrmXemThoChiTiet.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.Dashboard.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.ThanhToan.resources
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.exe
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\The_Gioi_Tho.mdf
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\The_Gioi_Tho_log.ldf
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\GUI.exe.config
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\GUI.exe
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\GUI.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\BLL.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\Bunifu.Utils.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\DAL.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\DTO.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\Guna.UI2.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\BLL.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\DAL.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\DTO.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_Lich.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_LichHen.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FormThayDoiNgayGio.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\The_Gioi_Tho.mdf
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\The_Gioi_Tho_log.ldf
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\GUI.exe.config
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\GUI.exe
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\GUI.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\BLL.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\Bunifu.Utils.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\DAL.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\DTO.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\Guna.UI2.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\BLL.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\DAL.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\DTO.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKy.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyTho.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangNhap.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_QuenMK.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DangBai.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhGia.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DoiMK.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_Lich.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_LichHen.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongBao.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongKe.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ChinhSuaHoSo.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoanNganHang.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongTinCaNhan.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuTho.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XoaTK.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_Lich.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuNguoiDung.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.uC_TrangChuUser.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.DatLich.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FormThayDoiNgayGio.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FrmChonLinhVuc.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FrmTHO.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FrmXemThoChiTiet.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.Dashboard.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.ThanhToan.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.exe
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FormDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.FormXemDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\The_Gioi_Tho.mdf
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\The_Gioi_Tho_log.ldf
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\GUI.exe.config
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\GUI.exe
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\GUI.pdb
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\BLL.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\Bunifu.Utils.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\DAL.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\DTO.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\Guna.UI.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\BLL.pdb
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\DAL.pdb
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\DTO.pdb
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKy.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyTho.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_DangNhap.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_QuenMK.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_DangBai.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_DoiMK.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_Lich.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_LichHen.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_NapTien.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongBao.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongKe.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Login_Control.UC_Vi.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ChinhSuaHoSo.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoan.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoanNganHang.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongTinCaNhan.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuTho.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemChiTietDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_Tho_Control.UC_XoaTK.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_Lich.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_Tho.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuNguoiDung.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.All_User_Control.uC_TrangChuUser.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.DatLich.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FormDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FormThayDoiNgayGio.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FormXemDanhGia.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmChonLinhVuc.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmTHO.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.FrmXemThoChiTiet.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.Dashboard.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.ThanhToan.resources
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.exe
+C:\Users\HUNG\Documents\MonHoc\Python\the-gioi-tho-master\GUI\obj\Debug\GUI.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemDanhGia.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FormDanhGia.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FormXemDanhGia.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDangND.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FrmXemKhachHang.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyND.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.WinForms.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.Wpf.dll
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.xml
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.WinForms.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.WinForms.xml
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.Wpf.pdb
+D:\HocTapUTE\1\the-gioi-tho\GUI\bin\Debug\LiveCharts.Wpf.xml
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemDanhGiaChiTiet.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_ThoYeuThich.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_DSThoYeuThich.resources
+D:\HocTapUTE\1\the-gioi-tho\GUI\obj\Debug\GUI.FrmXemBaiDang.resources
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\The_Gioi_Tho.mdf
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\The_Gioi_Tho_log.ldf
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\GUI.exe.config
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\GUI.exe
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\GUI.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\BLL.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\Bunifu.Utils.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\DAL.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\DTO.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\Guna.UI2.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.WinForms.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.Wpf.dll
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\BLL.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\DAL.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\DTO.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.xml
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.WinForms.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.WinForms.xml
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.Wpf.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\bin\Debug\LiveCharts.Wpf.xml
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKy.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyND.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangKyTho.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_DangNhap.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Login_Control.UC_QuenMK.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DangBai.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhGia.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DoiMK.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_Lich.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_LichHen.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongBao.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongKe.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_BaiDangTho.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ChinhSuaHoSo.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_TaiKhoanNganHang.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_ThongTinCaNhan.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuTho.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemDanhGia.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XemDanhGiaChiTiet.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_XoaTK.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienLanh.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienMay.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_DienTuGiaDung.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_HeThongNuoc.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_ThongNghet.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_TrangChu_Control.UC_XayDungKienTruc.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDangND.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_DanhMuc.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_DSThoYeuThich.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_Lich.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TaiKhoan.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_ThoYeuThich.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_BaiDang.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_HoatDong.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChu.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.UC_TrangChuNguoiDung.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_User_Control.uC_TrangChuUser.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.DatLich.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FormDanhGia.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FormThayDoiNgayGio.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FormXemDanhGia.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FrmChonLinhVuc.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FrmTHO.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FrmXemKhachHang.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FrmXemThoChiTiet.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.Dashboard.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.ThanhToan.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.exe
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.pdb
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Tho_Control.UC_DanhSachBaiDang.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.FrmChinhSua.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Calendar_Control.UC_Day.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Calendar_Control.UC_Gio.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.All_Calendar_Control.UC_DayUser.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.Calendar.resources
+D:\HocTapUTE\the-gioi-tho\GUI\obj\Debug\GUI.Calendar_User.resources

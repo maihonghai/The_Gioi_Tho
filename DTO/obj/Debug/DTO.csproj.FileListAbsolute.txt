@@ -1,0 +1,36 @@
+D:\github\the-gioi-tho\DTO\bin\Debug\DTO.dll
+D:\github\the-gioi-tho\DTO\bin\Debug\DTO.pdb
+D:\github\the-gioi-tho\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\github\the-gioi-tho\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\github\the-gioi-tho\DTO\obj\Debug\DTO.dll
+D:\github\the-gioi-tho\DTO\obj\Debug\DTO.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DTO\bin\Debug\DTO.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DTO\bin\Debug\DTO.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DTO\obj\Debug\DTO.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DTO\obj\Debug\DTO.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DTO\bin\Debug\DTO.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DTO\bin\Debug\DTO.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DTO\obj\Debug\DTO.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DTO\obj\Debug\DTO.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DTO\bin\Debug\DTO.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DTO\bin\Debug\DTO.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DTO\obj\Debug\DTO.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DTO\obj\Debug\DTO.pdb
+D:\HocTapUTE\1\the-gioi-tho\DTO\bin\Debug\DTO.dll
+D:\HocTapUTE\1\the-gioi-tho\DTO\bin\Debug\DTO.pdb
+D:\HocTapUTE\1\the-gioi-tho\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTapUTE\1\the-gioi-tho\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\1\the-gioi-tho\DTO\obj\Debug\DTO.dll
+D:\HocTapUTE\1\the-gioi-tho\DTO\obj\Debug\DTO.pdb
+D:\HocTapUTE\the-gioi-tho\DTO\bin\Debug\DTO.dll
+D:\HocTapUTE\the-gioi-tho\DTO\bin\Debug\DTO.pdb
+D:\HocTapUTE\the-gioi-tho\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTapUTE\the-gioi-tho\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\the-gioi-tho\DTO\obj\Debug\DTO.dll
+D:\HocTapUTE\the-gioi-tho\DTO\obj\Debug\DTO.pdb

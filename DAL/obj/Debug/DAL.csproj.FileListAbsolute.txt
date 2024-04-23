@@ -1,0 +1,54 @@
+D:\github\the-gioi-tho\DAL\bin\Debug\DAL.dll
+D:\github\the-gioi-tho\DAL\bin\Debug\DAL.pdb
+D:\github\the-gioi-tho\DAL\bin\Debug\DTO.dll
+D:\github\the-gioi-tho\DAL\bin\Debug\DTO.pdb
+D:\github\the-gioi-tho\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\github\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\github\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\github\the-gioi-tho\DAL\obj\Debug\DAL.dll
+D:\github\the-gioi-tho\DAL\obj\Debug\DAL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\bin\Debug\DAL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\bin\Debug\DAL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\bin\Debug\DTO.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\bin\Debug\DTO.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\obj\Debug\DAL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\TheGioTho\DAL\obj\Debug\DAL.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\bin\Debug\DAL.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\bin\Debug\DAL.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\bin\Debug\DTO.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\bin\Debug\DTO.pdb
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\obj\Debug\DAL.dll
+C:\Users\HUNG\Documents\MonHoc\the-gioi-tho-master\DAL\obj\Debug\DAL.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\bin\Debug\DAL.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\bin\Debug\DAL.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\bin\Debug\DTO.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\bin\Debug\DTO.pdb
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\obj\Debug\DAL.dll
+D:\HocTapUTE\DoAnWinMoi\the-gioi-tho\DAL\obj\Debug\DAL.pdb
+D:\HocTapUTE\1\the-gioi-tho\DAL\bin\Debug\DAL.dll
+D:\HocTapUTE\1\the-gioi-tho\DAL\bin\Debug\DAL.pdb
+D:\HocTapUTE\1\the-gioi-tho\DAL\bin\Debug\DTO.dll
+D:\HocTapUTE\1\the-gioi-tho\DAL\bin\Debug\DTO.pdb
+D:\HocTapUTE\1\the-gioi-tho\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTapUTE\1\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\1\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTapUTE\1\the-gioi-tho\DAL\obj\Debug\DAL.dll
+D:\HocTapUTE\1\the-gioi-tho\DAL\obj\Debug\DAL.pdb
+D:\HocTapUTE\the-gioi-tho\DAL\bin\Debug\DAL.dll
+D:\HocTapUTE\the-gioi-tho\DAL\bin\Debug\DAL.pdb
+D:\HocTapUTE\the-gioi-tho\DAL\bin\Debug\DTO.dll
+D:\HocTapUTE\the-gioi-tho\DAL\bin\Debug\DTO.pdb
+D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.dll
+D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.pdb
