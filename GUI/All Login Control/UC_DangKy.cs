@@ -108,8 +108,20 @@ namespace GUI.All_Login_Control
                 string hoten = uC_DangKyTho1.HovaTenText;
                 string gioitinh = uC_DangKyTho1.GioiTinhText;
                 string sodt = uC_DangKyTho1.SoDTText;
-                int sonamkn = int.Parse(uC_DangKyTho1.SoNamKNText);
+                string sonamknText = uC_DangKyTho1.SoNamKNText;
                 string diachi = uC_DangKyTho1.DiaChiText;
+                if (string.IsNullOrEmpty(hoten) || string.IsNullOrEmpty(gioitinh) || string.IsNullOrEmpty(sodt) || string.IsNullOrEmpty(diachi)|| string.IsNullOrEmpty(sonamknText))
+                {
+                    MessageBox.Show("Vui lòng điền đầy đủ thông tin!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+                int sonamkn;
+                // Kiểm tra xem trường số năm kinh nghiệm có thể được chuyển đổi thành số nguyên không
+                if (!int.TryParse(sonamknText, out sonamkn))
+                {
+                    MessageBox.Show("Số năm kinh nghiệm không hợp lệ!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
                 try
                 {
                     taiKhoanThoDal.Insert(tentk, mk, email, hoten, gioitinh, sodt, sonamkn, diachi);
@@ -129,6 +141,11 @@ namespace GUI.All_Login_Control
                 string hoten = uC_DangKyND1.HovaTenText;
                 string sodt = uC_DangKyND1.SoDTText;
                 string diachi = uC_DangKyND1.DiaChiText;
+                if (string.IsNullOrEmpty(hoten) || string.IsNullOrEmpty(sodt) || string.IsNullOrEmpty(diachi))
+                {
+                    MessageBox.Show("Vui lòng điền đầy đủ thông tin!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
                 try
                 {
                     taiKhoanDal.Insert(tentk, mk, email, hoten, sodt, diachi);
