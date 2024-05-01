@@ -52,3 +52,12 @@ D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.dll
 D:\HocTapUTE\the-gioi-tho\DAL\obj\Debug\DAL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\bin\Debug\DAL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\bin\Debug\DAL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\bin\Debug\DTO.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\bin\Debug\DTO.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\obj\Debug\DAL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\DAL\obj\Debug\DAL.pdb

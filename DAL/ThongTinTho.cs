@@ -20,6 +20,8 @@ namespace DAL
         public int SoNamKinhNghiem { get; set; }
         public string Email { get; set; }
         public int IDTho { get; set; }
+        // Thuộc tính mới: Số lượt yêu thích
+        public int SoLuotYeuThich { get; set; }
 
         public ThongTinTho()
         {
@@ -57,7 +59,7 @@ namespace DAL
             }
         }
 
-        public ThongTinTho(string tenTaiKhoan, string matKhau, string hoTen, string gioiTinh, string diaChi, string soDienThoai, int soNamKinhNghiem, string email, int iDTho)
+        public ThongTinTho(string tenTaiKhoan, string matKhau, string hoTen, string gioiTinh, string diaChi, string soDienThoai, int soNamKinhNghiem, string email, int iDTho, int soLuotYeuThich)
         {
             TenTaiKhoan = tenTaiKhoan;
             MatKhau = matKhau;
@@ -68,6 +70,7 @@ namespace DAL
             SoNamKinhNghiem = soNamKinhNghiem;
             Email = email;
             IDTho = iDTho;
+            SoLuotYeuThich = soLuotYeuThich;
         }
 
         public class ThoYeuThichRepository
@@ -110,6 +113,46 @@ namespace DAL
                 return danhSachtho;
             }
 
+            public List<ThongTinTho> LayDanhSachTopThoYeuThich()
+            {
+                List<ThongTinTho> danhSachTopTho = new List<ThongTinTho>();
+
+                using (SqlConnection connection = ConnectionDAL.GetSqlConnection())
+                {
+                    connection.Open();
+                    string query = @"
+            SELECT TOP 10 tk.IDTho, tk.HoTen, tk.GioiTinh, tk.SoDienThoai, tk.SoNamKinhNghiem, tk.DiaChi, 
+            (SELECT COUNT(*) FROM ThoYeuThich iu WHERE iu.IDTho = tk.IDTho) AS SoLuotYeuThich
+            FROM TaiKhoanTho tk
+            ORDER BY SoLuotYeuThich DESC";
+
+                    SqlCommand command = new SqlCommand(query, connection);
+
+                    SqlDataReader reader = command.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        ThongTinTho thongTin = new ThongTinTho
+                        {
+                            HoTen = reader["HoTen"].ToString(),
+                            GioiTinh = reader["GioiTinh"].ToString(),
+                            SoDienThoai = reader["SoDienThoai"].ToString(),
+                            SoNamKinhNghiem = Convert.ToInt32(reader["SoNamKinhNghiem"]),
+                            DiaChi = reader["DiaChi"].ToString(),
+                            IDTho = Convert.ToInt32(reader["IDTho"]),
+                            SoLuotYeuThich = Convert.ToInt32(reader["SoLuotYeuThich"])
+                        };
+
+                        danhSachTopTho.Add(thongTin);
+                    }
+
+                    reader.Close();
+                }
+
+                return danhSachTopTho;
+            }
+
+
             public void XoaThoYeuThich(int idNguoiDung, int idTho)
             {
                 try
@@ -138,6 +181,45 @@ namespace DAL
                 {
                     throw new Exception("Lỗi khi xóa thông tin thợ yêu thích từ cơ sở dữ liệu: " + ex.Message);
                 }
+            }
+            public List<ThongTinTho> LayDanhSachThoBiHuy()
+            {
+                List<ThongTinTho> danhSachThoBiHuy = new List<ThongTinTho>();
+
+                using (SqlConnection connection = ConnectionDAL.GetSqlConnection())
+                {
+                    connection.Open();
+                    string query = @"
+             SELECT TOP 10 tk.IDTho, tk.HoTen, tk.GioiTinh, tk.SoDienThoai, tk.SoNamKinhNghiem, tk.DiaChi, 
+            (SELECT COUNT(*) FROM CongViec iu WHERE iu.TrangThaiCongViecTho = N'Đã hủy' AND  iu.IDTho = tk.IDTho) AS LanHuy
+            FROM TaiKhoanTho tk
+            ORDER BY LanHuy DESC";
+                    SqlCommand command = new SqlCommand(query, connection);
+                   // command.Parameters.AddWithValue("@IDNguoiDung", idNguoiDung);
+
+                    SqlDataReader reader = command.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        ThongTinTho thongTin = new ThongTinTho
+                        {
+                            HoTen = reader["HoTen"].ToString(),
+                            GioiTinh = reader["GioiTinh"].ToString(),
+                            SoDienThoai = reader["SoDienThoai"].ToString(),
+                            SoNamKinhNghiem = Convert.ToInt32(reader["SoNamKinhNghiem"]),
+                            DiaChi = reader["DiaChi"].ToString(),
+                            IDTho = Convert.ToInt32(reader["IDTho"]),
+                              // Lấy số lần thợ đã bị hủy từ cột LanHuy
+                           SoLuotYeuThich = Convert.ToInt32(reader["LanHuy"])
+                        };
+
+                        danhSachThoBiHuy.Add(thongTin);
+                    }
+
+                    reader.Close();
+                }
+
+                return danhSachThoBiHuy;
             }
         }
     }

@@ -64,3 +64,14 @@ D:\HocTapUTE\the-gioi-tho\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 D:\HocTapUTE\the-gioi-tho\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\HocTapUTE\the-gioi-tho\BLL\obj\Debug\BLL.dll
 D:\HocTapUTE\the-gioi-tho\BLL\obj\Debug\BLL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\bin\Debug\BLL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\bin\Debug\BLL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\bin\Debug\DAL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\bin\Debug\DTO.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\bin\Debug\DAL.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\bin\Debug\DTO.pdb
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\obj\Debug\BLL.dll
+D:\HocTapUTE\Lập Trình Trên Window'\KiemTraWin\the-gioi-tho\BLL\obj\Debug\BLL.pdb

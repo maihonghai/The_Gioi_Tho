@@ -40,6 +40,8 @@
             this.btnXemBaiDang = new Guna.UI2.WinForms.Guna2Button();
             this.lblIDTho = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.ptbNu = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.lblYeuThich = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.lblBiHuy = new Guna.UI2.WinForms.Guna2HtmlLabel();
             ((System.ComponentModel.ISupportInitialize)(this.ptbNam)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ptbNu)).BeginInit();
             this.SuspendLayout();
@@ -260,10 +262,36 @@
             this.ptbNu.TabStop = false;
             this.ptbNu.Visible = false;
             // 
+            // lblYeuThich
+            // 
+            this.lblYeuThich.BackColor = System.Drawing.Color.Transparent;
+            this.lblYeuThich.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblYeuThich.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.lblYeuThich.Location = new System.Drawing.Point(165, 84);
+            this.lblYeuThich.Name = "lblYeuThich";
+            this.lblYeuThich.Size = new System.Drawing.Size(13, 27);
+            this.lblYeuThich.TabIndex = 38;
+            this.lblYeuThich.Text = "0";
+            this.lblYeuThich.Visible = false;
+            // 
+            // lblBiHuy
+            // 
+            this.lblBiHuy.BackColor = System.Drawing.Color.Transparent;
+            this.lblBiHuy.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBiHuy.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.lblBiHuy.Location = new System.Drawing.Point(165, 111);
+            this.lblBiHuy.Name = "lblBiHuy";
+            this.lblBiHuy.Size = new System.Drawing.Size(13, 27);
+            this.lblBiHuy.TabIndex = 39;
+            this.lblBiHuy.Text = "0";
+            this.lblBiHuy.Visible = false;
+            // 
             // UC_ThoYeuThich
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.lblBiHuy);
+            this.Controls.Add(this.lblYeuThich);
             this.Controls.Add(this.lblIDTho);
             this.Controls.Add(this.btnXemBaiDang);
             this.Controls.Add(this.btnHuyYeuThich);
@@ -295,5 +323,7 @@
         private Guna.UI2.WinForms.Guna2Button btnXemBaiDang;
         private Guna.UI2.WinForms.Guna2HtmlLabel lblIDTho;
         private Guna.UI2.WinForms.Guna2PictureBox ptbNu;
+        private Guna.UI2.WinForms.Guna2HtmlLabel lblYeuThich;
+        private Guna.UI2.WinForms.Guna2HtmlLabel lblBiHuy;
     }
 }

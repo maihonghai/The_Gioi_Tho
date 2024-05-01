@@ -10,6 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Input;
 using static DAL.ThongTinTho;
 
 namespace GUI.All_User_Control
@@ -31,6 +32,13 @@ namespace GUI.All_User_Control
                 ptbNu.Visible = true;
             }
             lblIDTho.Text = IDTho.ToString();
+            // Khởi tạo nhãn để hiển thị số lượt yêu thích
+            lblYeuThich.Text = tho.SoLuotYeuThich.ToString()+ " lượt";
+           
+        }
+        public Guna2HtmlLabel GetSoLuotYeuThich()
+        {
+            return lblYeuThich;
         }
         public Guna2Button GetBtnHuyYeuThich()
         {

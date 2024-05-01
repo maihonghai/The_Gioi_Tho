@@ -290,7 +290,7 @@
             // 
             this.guna2HtmlLabel10.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel10.Font = new System.Drawing.Font("Segoe UI Semibold", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel10.Location = new System.Drawing.Point(44, 25);
+            this.guna2HtmlLabel10.Location = new System.Drawing.Point(55, 25);
             this.guna2HtmlLabel10.Name = "guna2HtmlLabel10";
             this.guna2HtmlLabel10.Size = new System.Drawing.Size(405, 33);
             this.guna2HtmlLabel10.TabIndex = 27;
@@ -579,9 +579,9 @@
             this.guna2GradientPanel1.Controls.Add(this.guna2HtmlLabel10);
             this.guna2GradientPanel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.guna2GradientPanel1.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.guna2GradientPanel1.Location = new System.Drawing.Point(-13, -8);
+            this.guna2GradientPanel1.Location = new System.Drawing.Point(-24, -8);
             this.guna2GradientPanel1.Name = "guna2GradientPanel1";
-            this.guna2GradientPanel1.Size = new System.Drawing.Size(1126, 79);
+            this.guna2GradientPanel1.Size = new System.Drawing.Size(1137, 79);
             this.guna2GradientPanel1.TabIndex = 29;
             // 
             // UC_DangBai
